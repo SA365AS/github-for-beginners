@@ -4,4 +4,5 @@
 
 Проект открывается с помощью VS Code на Python. Следует открыть и запустить файл "Задание1.py".
 
-![image](https://github.com/SA365AS/github-for-beginners/assets/146513948/acff8e69-4f3a-4bbe-b3e6-6ebd9c473467)
+![image](https://github.com/SA365AS/github-for-beginners/assets/146513948/dbd286fb-070d-4486-99a9-cdca22096406)
+
